@@ -19,4 +19,11 @@
 <br>
 
 ## 4. Report
-### The report is in current working directory, which name is 'project_group_elegant.pdf'
+![](./pdf_pics/0001.jpg)
+![](./pdf_pics/0002.jpg)
+![](./pdf_pics/0003.jpg)
+![](./pdf_pics/0004.jpg)
+![](./pdf_pics/0005.jpg)
+![](./pdf_pics/0006.jpg)
+![](./pdf_pics/0007.jpg)
+![](./pdf_pics/0008.jpg)
